@@ -1,5 +1,6 @@
 {
   "name": "BADTUSD Token List",
+  "logoURI": "https://timmy935242029-lgtm.github.io/icon-token/badminton.png",
   "keywords": ["bsc", "badt", "usdt"],
   "timestamp": "2025-01-01T00:00:00+00:00",
   "version": {
@@ -14,7 +15,7 @@
       "symbol": "BADTUSD",
       "name": "BADTUSD Token",
       "decimals": 18,
-      "logoURI": "https://gateway.pinata.cloud/ipfs/QmeHa55E2giDBouyZyMAewdBLhTBkqUdwehwbbyVpBLC2c"
+      "logoURI": "https://timmy935242029-lgtm.github.io/icon-token/badminton.png"
     }
   ]
 }
