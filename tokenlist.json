@@ -10,8 +10,8 @@
   },
   "tokens": [
     {
-      "chainId": 97,
-      "address": "0xFCDfBF1cab1e2759Fd8c1B42ab997f5d9bf7550c",
+      "chainId": 56,
+      "address": "0x352faa68647F281Db97E565BE70616F5a4Be07BD",
       "symbol": "BADTUSD",
       "name": "BADTUSD Token",
       "decimals": 18,
