@@ -1,5 +1,5 @@
 {
-  "name": "BADTUSD Token List",
+  "name": "BADTToken",
   "logoURI": "https://timmy935242029-lgtm.github.io/icon-token/badminton.png",
   "keywords": ["bsc", "badt", "usdt"],
   "timestamp": "2025-01-01T00:00:00+00:00",
@@ -12,8 +12,8 @@
     {
       "chainId": 56,
       "address": "0x352faa68647F281Db97E565BE70616F5a4Be07BD",
-      "symbol": "BADTUSD",
-      "name": "BADTUSD Token",
+      "symbol": "BADT",
+      "name": "BADTToken",
       "decimals": 18,
       "logoURI": "https://timmy935242029-lgtm.github.io/icon-token/badminton.png"
     }
